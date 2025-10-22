@@ -1,8 +1,8 @@
-# Jobbernaut Tailor
+# Career Copilot 2.0
 
 **Stop wasting hours customizing resumes. Let AI do it in seconds.**
 
-Jobbernaut Tailor is an intelligent automation system that transforms your master resume into perfectly tailored resumes and cover letters for every job you apply to. Copy-paste a job description, run one command, and get professional PDFs ready to submit.
+Career Copilot 2.0 is an intelligent automation system that transforms your master resume into perfectly tailored resumes and cover letters for every job you apply to. Copy-paste a job description, run one command, and get professional PDFs ready to submit.
 
 ---
 
@@ -55,7 +55,7 @@ Every job description is saved permanently in one organized file. Never worry ab
 
 **If anything is confusing, just ask ChatGPT or Claude:**
 
-> "I'm setting up Jobbernaut Tailor. Can you help me [create a .env file / understand the config / fix this error]?"
+> "I'm setting up Career Copilot 2.0. Can you help me [create a .env file / understand the config / fix this error]?"
 
 AI assistants can guide you through any step. This README covers the basics, but they can provide personalized help for your specific situation.
 
@@ -75,8 +75,8 @@ AI assistants can guide you through any step. This README covers the basics, but
 
 1. **Clone and enter the project:**
    ```bash
-   git clone https://github.com/Jobbernaut/jobbernaut-tailor.git
-   cd jobbernaut-tailor
+   git clone https://github.com/omshewale30/career-copilot2.0.git
+   cd career-copilot2.0
    ```
 
 2. **Install Python dependencies:**
@@ -291,7 +291,7 @@ The AI response wasn't properly formatted. Try running again or switch to a diff
 
 ### Still stuck?
 Ask ChatGPT or Claude! Copy the error message and ask:
-> "I'm using Jobbernaut Tailor and got this error: [paste error]. How do I fix it?"
+> "I'm using Career Copilot 2.0 and got this error: [paste error]. How do I fix it?"
 
 ---
 
