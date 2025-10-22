@@ -1,0 +1,40 @@
+{
+  "resume_generation": {
+    "bot_name": "Gemini-2.5-Pro",
+    "thinking_budget": "8192",
+    "web_search": true
+  },
+  "cover_letter_generation": {
+    "bot_name": "Claude-Sonnet-4.5",
+    "thinking_budget": "2048",
+    "web_search": true
+  },
+  "intelligence_steps": {
+    "job_resonance_analysis": {
+      "bot_name": "Gemini-2.5-Pro",
+      "thinking_budget": "4096"
+    },
+    "company_research": {
+      "bot_name": "Gemini-2.5-Pro",
+      "thinking_budget": "4096"
+    },
+    "storytelling_arc": {
+      "bot_name": "Gemini-2.5-Pro",
+      "thinking_budget": "4096"
+    }
+  },
+  "humanization": {
+    "enabled": false,
+    "level": "low",
+    "apply_to": ["resume", "cover_letter"]
+  },
+  "referral_resume": {
+    "email": "omshewale030@gmail.com",
+    "phone": "(206) 6378859"
+  },
+  "defaults": {
+    "resume_bot": "Gemini-2.5-Pro",
+    "cover_letter_bot": "Claude-Sonnet-4.5"
+  },
+  "reasoning_trace": false
+}
