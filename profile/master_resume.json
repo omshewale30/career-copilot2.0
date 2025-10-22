@@ -1,3 +1,4 @@
+
 {
   "contact_info": {
     "first_name": "Om",
@@ -31,9 +32,9 @@
       "start_date": "2025-07",
       "end_date": "2025-10",
       "narrative_context": {
-        "technical_story": "Contributed to engineering a proprietary RAG-based AI tool designed for financial analysis, specifically for investment banking and private equity firms performing deal analysis[cite: 13, 65]. [cite_start]My role involved architecting the entire Azure cloud infrastructure and creating on-premise deployment solutions to guarantee product reliability for key clients[cite: 14, 65]. [cite_start]A core technical achievement was developing a state-of-the-art 5-way citation scoring system, which provided a comprehensive quality assessment of AI-generated responses by validating them against source texts[cite: 15, 65].",
-        "impact_story": "The RAG-based financial analysis tool directly supported high-stakes deal analysis for major firms in investment banking and private equity[cite: 13, 65]. [cite_start]The robust Azure infrastructure and on-premise solutions I architected ensured high availability and reliability, which was critical for client operations[cite: 14, 65]. [cite_start]The citation scoring system significantly improved the trustworthiness and quality of AI-generated financial insights[cite: 15, 65].",
-        "technologies_deep_dive": "The primary technologies used were RAG (Retrieval-Augmented Generation) for the core AI tool, and Microsoft Azure for cloud infrastructure architecture and deployment[cite: 14, 18, 65]."
+        "technical_story": "Contributed to engineering a proprietary RAG-based AI tool designed for financial analysis, specifically for investment banking and private equity firms performing deal analysis. My role involved architecting the entire Azure cloud infrastructure and creating on-premise deployment solutions to guarantee product reliability for key clients. A core technical achievement was developing a state-of-the-art 5-way citation scoring system, which provided a comprehensive quality assessment of AI-generated responses by validating them against source texts.",
+        "impact_story": "The RAG-based financial analysis tool directly supported high-stakes deal analysis for major firms in investment banking and private equity. The robust Azure infrastructure and on-premise solutions I architected ensured high availability and reliability, which was critical for client operations. The citation scoring system significantly improved the trustworthiness and quality of AI-generated financial insights.",
+        "technologies_deep_dive": "The primary technologies used were RAG (Retrieval-Augmented Generation) for the core AI tool, and Microsoft Azure for cloud infrastructure architecture and deployment."
       },
       "key_metrics": {
         "citation_scoring_system": "5-way"
@@ -47,9 +48,9 @@
       "start_date": "2024-10",
       "end_date": "Present",
       "narrative_context": {
-        "technical_story": "Engineered 'Charlotte,' an enterprise-scale RAG-based AI cash management solution using Azure AI, CosmosDB, and EntraID[cite: 18, 65]. [cite_start]In a separate initiative, I used Python to automate pharmacy payment tracking and optimize deposit workflows within PeopleSoft[cite: 19, 65]. [cite_start]I also handled the technical oversight and reconciliation of large-scale financial transactions, ensuring data integrity and policy compliance[cite: 20, 65].",
-        "impact_story": "The 'Charlotte' AI solution is projected to eliminate hundreds of hours of manual research annually for UNC employees[cite: 18, 65]. [cite_start]The Python-based automation boosted departmental efficiency by 35%[cite: 19, 65]. [cite_start]My oversight of financial deposits, amounting to $3 million per week, ensured 100% data integrity and adherence to compliance policies[cite: 20, 65].",
-        "technologies_deep_dive": "Key technologies included RAG, Azure AI, CosmosDB, and EntraID for the 'Charlotte' project, and Python for automating workflows in the PeopleSoft environment[cite: 18, 19, 65]."
+        "technical_story": "Engineered 'Charlotte,' an enterprise-scale RAG-based AI cash management solution using Azure AI, CosmosDB, and EntraID. In a separate initiative, I used Python to automate pharmacy payment tracking and optimize deposit workflows within PeopleSoft. I also handled the technical oversight and reconciliation of large-scale financial transactions, ensuring data integrity and policy compliance.",
+        "impact_story": "The 'Charlotte' AI solution is projected to eliminate hundreds of hours of manual research annually for UNC employees. The Python-based automation boosted departmental efficiency by 35%. My oversight of financial deposits, amounting to $3 million per week, ensured 100% data integrity and adherence to compliance policies.",
+        "technologies_deep_dive": "Key technologies included RAG, Azure AI, CosmosDB, and EntraID for the 'Charlotte' project, and Python for automating workflows in the PeopleSoft environment."
       },
       "key_metrics": {
         "annual_time_saved": "hundreds of hours",
@@ -66,9 +67,9 @@
       "start_date": "2024-10",
       "end_date": "2025-01",
       "narrative_context": {
-        "technical_story": "As the lead developer, I architected and developed 'IllnessLab,' a web-based escape room built with Flutter[cite: 23, 65]. [cite_start]The project, funded by PharmAlliance, involved engineering the core game mechanics, implementing complex logic, and designing the UI/UX for responsive engagement across devices[cite: 24, 65].",
-        "impact_story": "The 'IllnessLab' application was deployed university-wide, enhancing clinical education for over 1,000 students by providing an interactive and engaging learning platform[cite: 23, 24, 65].",
-        "technologies_deep_dive": "The application was built entirely using Flutter for the web, focusing on creating a responsive and seamless user experience for a large student body[cite: 23, 65]."
+        "technical_story": "As the lead developer, I architected and developed 'IllnessLab,' a web-based escape room built with Flutter. The project, funded by PharmAlliance, involved engineering the core game mechanics, implementing complex logic, and designing the UI/UX for responsive engagement across devices.",
+        "impact_story": "The 'IllnessLab' application was deployed university-wide, enhancing clinical education for over 1,000 students by providing an interactive and engaging learning platform.",
+        "technologies_deep_dive": "The application was built entirely using Flutter for the web, focusing on creating a responsive and seamless user experience for a large student body."
       },
       "key_metrics": {
         "students_reached": "1000+"
@@ -82,8 +83,8 @@
       "start_date": "2021-08",
       "end_date": "2024-05",
       "narrative_context": {
-        "technical_story": "Provided academic support in core computer science subjects, primarily Data Structures and Algorithms[cite: 27, 65]. [cite_start]I clarified complex concepts with practical examples and advised students on sophisticated coding projects, including pathfinding algorithms and database design[cite: 28, 65]. [cite_start]My role focused on strengthening students' debugging, algorithm implementation, and software design capabilities[cite: 28, 65].",
-        "impact_story": "Over three years, I tutored more than 1,500 students, helping to boost their comprehension and practical skills in fundamental software engineering topics[cite: 27, 65]. "
+        "technical_story": "Provided academic support in core computer science subjects, primarily Data Structures and Algorithms. I clarified complex concepts with practical examples and advised students on sophisticated coding projects, including pathfinding algorithms and database design. My role focused on strengthening students' debugging, algorithm implementation, and software design capabilities.",
+        "impact_story": "Over three years, I tutored more than 1,500 students, helping to boost their comprehension and practical skills in fundamental software engineering topics. Additionally, I advised over 100 students on their personal and academic projects, guiding them through complex technical challenges."
       },
       "key_metrics": {
         "students_tutored": "1500+",
@@ -105,7 +106,7 @@
       ],
       "project_url": "",
       "narrative_context": {
-        "technical_story": "Developed 'Jarvis,' a personal RAG chatbot designed to provide contextual Q&A on my professional profile using my own documents as the knowledge base[cite: 65]. [cite_start]The core of the project was an automated pipeline I engineered for processing personal documents, which handled ingestion, chunking, and vectorization to ensure low-latency, accurate context for an OpenAI LLM[cite: 65]."
+        "technical_story": "Developed 'Jarvis,' a personal RAG chatbot designed to provide contextual Q&A on my professional profile using my own documents as the knowledge base. The core of the project was an automated pipeline I engineered for processing personal documents, which handled ingestion, chunking, and vectorization to ensure low-latency, accurate context for an OpenAI LLM."
       },
       "key_metrics": {},
       "role_clarity": "led"
@@ -125,8 +126,8 @@
       ],
       "project_url": "",
       "narrative_context": {
-        "technical_story": "Engineered 'Career-Copilot AI,' a full-stack SaaS platform that provides users with personalized resume analysis and AI-driven interactive career coaching[cite: 36, 65]. [cite_start]The tech stack included React for the frontend, FastAPI for the backend, and sophisticated LangChain AI agents for context-aware career guidance[cite: 36, 37, 65]. [cite_start]I integrated Supabase for data persistence and the Stripe API for payment processing to create a complete, market-ready application[cite: 37, 65].",
-        "impact_story": "The platform received positive feedback from beta testers, who specifically highlighted the relevance and quality of the AI-driven career advice[cite: 37, 65]."
+        "technical_story": "Engineered 'Career-Copilot AI,' a full-stack SaaS platform that provides users with personalized resume analysis and AI-driven interactive career coaching. The tech stack included React for the frontend, FastAPI for the backend, and sophisticated LangChain AI agents for context-aware career guidance. I integrated Supabase for data persistence and the Stripe API for payment processing to create a complete, market-ready application.",
+        "impact_story": "The platform received positive feedback from beta testers, who specifically highlighted the relevance and quality of the AI-driven career advice."
       },
       "key_metrics": {
         "feedback": "Positive beta tester feedback on advice relevance"
@@ -146,8 +147,8 @@
       ],
       "project_url": "",
       "narrative_context": {
-        "technical_story": "Developed an end-to-end system to convert images of mathematical equations into LaTeX code, leveraging OCR and NLP techniques[cite: 40, 65]. [cite_start]To enhance performance, I integrated Vision Transformers (ViT) with PyTorch, which improved OCR accuracy, and used fine-tuned decoder LLMs from Hugging Face to boost the precision of the final LaTeX generation[cite: 41, 65].",
-        "impact_story": "The system achieved a 92% transcription accuracy on a diverse dataset of 1,000 mathematical expressions[cite: 40, 65]. [cite_start]The implementation of ViT led to a 15% improvement in OCR accuracy, while the fine-tuned LLMs increased LaTeX generation precision by 10%[cite: 41, 65]."
+        "technical_story": "Developed an end-to-end system to convert images of mathematical equations into LaTeX code, leveraging OCR and NLP techniques. To enhance performance, I integrated Vision Transformers (ViT) with PyTorch, which improved OCR accuracy, and used fine-tuned decoder LLMs from Hugging Face to boost the precision of the final LaTeX generation.",
+        "impact_story": "The system achieved a 92% transcription accuracy on a diverse dataset of 1,000 mathematical expressions. The implementation of ViT led to a 15% improvement in OCR accuracy, while the fine-tuned LLMs increased LaTeX generation precision by 10%."
       },
       "key_metrics": {
         "transcription_accuracy": "92%",
@@ -169,7 +170,8 @@
       ],
       "project_url": "",
       "narrative_context": {
-        "impact_story": "The application was recognized by peers for its robust functionality and intelligent features, particularly the personalized insights generated by the on-device machine learning model[cite: 45, 46, 65]."
+        "technical_story": "Developed a native iOS macro-tracking application using Swift and SwiftUI. The app integrated the Nutritionix REST API to fetch precise nutritional data for a wide range of foods. A key feature was the implementation of CoreML for on-device machine learning, which provided predictive meal suggestions based on the user's history, creating a personalized and enhanced user experience.",
+        "impact_story": "The application was recognized by peers for its robust functionality and intelligent features, particularly the personalized insights generated by the on-device machine learning model."
       },
       "key_metrics": {
         "recognition": "Recognized by peers for robust functionality"
